@@ -1,0 +1,22 @@
+{
+  "name": "gaffa-label",
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "version": "1.0.0",
+  "main": "label.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/gaffa-label.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gaffa-label/issues"
+  },
+  "keywords": [
+    "gaffa",
+    "label",
+    "view"
+  ],
+  "peerDependencies": {
+    "gaffa": "^1.0.0"
+  },
+  "license": "MIT"
+}
